@@ -76,3 +76,4 @@ gem "fog-aws"
 gem 'carrierwave-aws', '~> 1.0.2'
 gem "mini_magick"
 gem 'ranked-model'
+gem "font-awesome-rails"
